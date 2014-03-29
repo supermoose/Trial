@@ -4,8 +4,8 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Litecoin</source>
-        <translation>Sobre Litecoin</translation>
+        <source>About Votecoin</source>
+        <translation>Sobre Votecoin</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -2228,8 +2228,8 @@ Address: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 9333 or testnet: 19333)</source>
-        <translation>Escoltar connexions a &lt;port&gt; (per defecte: 9333 o testnet: 19333)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 8355 or testnet: 18355)</source>
+        <translation>Escoltar connexions a &lt;port&gt; (per defecte: 8355 o testnet: 18355)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2263,8 +2263,8 @@ Address: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 9332 or testnet: 19332)</source>
-        <translation>Escoltar connexions JSON-RPC al port &lt;port&gt; (per defecte: 9332 o testnet:19332)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 8357 or testnet: 18357)</source>
+        <translation>Escoltar connexions JSON-RPC al port &lt;port&gt; (per defecte: 8357 o testnet:18357)</translation>
     </message>
     <message>
         <location line="+37"/>
