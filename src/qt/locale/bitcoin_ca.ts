@@ -5,7 +5,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Litecoin</source>
-        <translation>A prop de Litecoin</translation>
+        <translation>A prop de Votecoin</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Litecoin developers</source>
+        <source>The Cryptovote Developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2228,7 +2228,7 @@ Address: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 9333 or testnet: 19333)</source>
+        <source>Listen for connections on &lt;port&gt; (default: 8355 or testnet: 18355)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2263,7 +2263,7 @@ Address: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 9332 or testnet: 19332)</source>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 8357 or testnet: 18357)</source>
         <translation type="unfinished"/>
     </message>
     <message>
